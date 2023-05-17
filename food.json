@@ -1,9 +1,13 @@
 [{
         "Name":"Kaya",
         "Image":"C:/Users/myuser12/Desktop/Elaborarea lucrării de licenţă/Licenta/Licenta/Resources/Images/burmilla.jpg",
-        "Details":"Burmilla",
-        "Ingredients":"Pisica",
-        "FeedingRecommendation":"Cluj-Napoca",
-        "Price":"Adult"
+        "Breed":"aa",
+        "Type":"aaa",
+        "Location":"aaaa",
+        "Size":"aaaaa",
+        "Gender":"aaaaaa",
+        "Health":"aaaaaa",
+        "Meet":"aaaaaaaa",
+        "Social":"aaaaaaa"
    }
 ]
